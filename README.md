@@ -1,33 +1,39 @@
-# Hi there, I'm Maximilian Schmidt 👋
+# Hi, I'm MAximilian Schmidt 👋
 
-🚀 On the path to become a Frontend Developer
+### Frontend Developer (in Training) | Angular
 
-💡 Learn to build and create digital experiences and products.
+From curiosity to creation – currently training to become a Frontend Developer with a strong focus on modern, clean, and user-friendly web interfaces.
 
 ---
 
 ## 👨‍💻 About Me
 
-```java
-public class Moxx1990 {
+```ts
+class FrontendDeveloperInTraining {
+  name = "Maximilian Schmidt";
+  role = "Frontend Developer (in Training)";
+  focus = ["UI Development", "Angular", "Clean Code"];
+  status = "Learning & building real projects";
 
-    public string Role = "Aspiring Frontend Developer";
-    public string Focus = "Frontend Development";
-    public string Goal = "Building Websites and digital experiences";
+  techStack = {
+    languages: ["HTML", "CSS", "JavaScript"],
+    framework: ["Angular"],
+    styling: ["CSS3", "Flexbox", "Grid"],
+    tools: ["Git", "GitHub", "VS Code", "Figma"]
+  };
 
-    enum Languages {
-        ![HTML](https://img.shields.io/badge/HTML5-orange)
-        ![CSS](https://img.shields.io/badge/CSS3-blue)
-        ![JavaScript](https://img.shields.io/badge/JavaScript-yellow)
-    }
+  traits = [
+    "Curious",
+    "Problem Solver",
+    "Team Player",
+  ];
 
-    string[] Tools = {
-        "GitHub", "VS Code", "Figma", "Bootstrap", "Firebase"
-    };
-
-    string[] Traits = {
-        "Curious", "Creative", "Problem Solver"
-    };
+  goals = [
+    "Build responsive and accessible user interfaces",
+    "Build great user experiences",
+    "Understand Angular architecture and components",
+    "Grow into a professional Frontend Developer"
+  ];
 }
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=stefanstraeter&show_icons=true)
+export default FrontendDeveloperInTraining;
