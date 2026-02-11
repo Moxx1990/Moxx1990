@@ -1,16 +1,33 @@
-## Hi there 👋
+# Hi there, I'm Maximilian Schmidt 👋
 
-<!--
-**Moxx1990/Moxx1990** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🚀 On the path to become a Frontend Developer
 
-Here are some ideas to get you started:
+💡 Learn to build and create digital experiences and products.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## 👨‍💻 About Me
+
+```java
+public class Moxx1990 {
+
+    public string Role = "Aspiring Frontend Developer";
+    public string Focus = "Frontend Development";
+    public string Goal = "Building Websites and digital experiences";
+
+    enum Languages {
+        ![HTML](https://img.shields.io/badge/HTML5-orange)
+        ![CSS](https://img.shields.io/badge/CSS3-blue)
+        ![JavaScript](https://img.shields.io/badge/JavaScript-yellow)
+    }
+
+    string[] Tools = {
+        "GitHub", "VS Code", "Figma", "Bootstrap", "Firebase"
+    };
+
+    string[] Traits = {
+        "Curious", "Creative", "Problem Solver"
+    };
+}
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=stefanstraeter&show_icons=true)
