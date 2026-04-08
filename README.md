@@ -1,4 +1,4 @@
-# Hi, I'm Mximilian Schmidt 👋
+# Hi, I'm Maximilian Schmidt 👋
 
 ### Frontend Developer (in Training) | Angular
 
